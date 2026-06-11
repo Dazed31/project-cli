@@ -3,12 +3,18 @@
         {
             "name": "Alex",
             "email": "alex@mail.com",
-            "projects": []
-        },
-        {
-            "name": "Alex",
-            "email": "alex@mail.com",
-            "projects": []
+            "projects": [
+                {
+                    "title": "CLI Tool",
+                    "description": "Build system",
+                    "tasks": [
+                        {
+                            "title": "Create files",
+                            "status": "completed"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
